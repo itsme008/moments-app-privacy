@@ -4,7 +4,7 @@ We are here to help! If you have any questions, need assistance, or want to repo
 
 ## Contact Us
 
-**Email**: daraab.pathania@icloud.com
+**Email**: momentsapp.support@gmail.com
 
 ## Feedback
 

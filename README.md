@@ -1,7 +1,7 @@
 # Privacy Policy for Moments
 
 **Effective Date:** December 26, 2025  
-**Last Updated:** May 2, 2026
+**Last Updated:** May 13, 2026
 
 ## Overview
 
@@ -87,7 +87,7 @@ We may update this policy as Moments evolves, including when backup, sync, accou
 
 If you have questions about this privacy policy or need help with data deletion, contact us at:
 
-**Email**: daraab.pathania@icloud.com
+**Email**: momentsapp.support@gmail.com
 
 ---
 
